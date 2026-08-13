@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="40" viewBox="0 0 520 40">
+  <defs>
+    <clipPath id="reveal">
+      <rect x="0" y="0" width="0" height="32">
+        <animate attributeName="width" dur="20.445s" repeatCount="indefinite"
+                 calcMode="linear" keyTimes="0.000000;0.193690;0.252384;0.349230;0.366349;0.533627;0.592321;0.675960;0.693079;0.847151;0.905845;0.982881;1.000000" values="0.00;532.40;532.40;0.00;0.00;459.80;459.80;0.00;0.00;423.50;423.50;0.00;0.00"/>
+      </rect>
+    </clipPath>
+  </defs>
+  <g transform="translate(4,8.0)">
+  <text x="0" y="20" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="20" fill="#58a6ff" clip-path="url(#reveal)" opacity="0"><animate attributeName="opacity" dur="20.445s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.000000;0.000005;0.000010;0.349230;0.349235;1.000000" values="0;0;1;1;0;0"/>B.Tech CSE @ Manipal Institute of Technology</text>
+  <text x="0" y="20" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="20" fill="#58a6ff" clip-path="url(#reveal)" opacity="0"><animate attributeName="opacity" dur="20.445s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.000000;0.366349;0.366354;0.675960;0.675965;1.000000" values="0;0;1;1;0;0"/>Building with Next.js, FastAPI, Python</text>
+  <text x="0" y="20" font-family="'JetBrains Mono','Fira Code',Consolas,monospace" font-size="20" fill="#58a6ff" clip-path="url(#reveal)" opacity="0"><animate attributeName="opacity" dur="20.445s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.000000;0.693079;0.693084;0.982881;0.982886;1.000000" values="0;0;1;1;0;0"/>Learning Azure, Docker &amp; Kubernetes</text>
+    <rect x="0" y="-2" width="10" height="24" fill="#58a6ff">
+      <animate attributeName="x" dur="20.445s" repeatCount="indefinite"
+               calcMode="linear" keyTimes="0.000000;0.193690;0.252384;0.349230;0.366349;0.533627;0.592321;0.675960;0.693079;0.847151;0.905845;0.982881;1.000000" values="0.00;532.40;532.40;0.00;0.00;459.80;459.80;0.00;0.00;423.50;423.50;0.00;0.00"/>
+      <animate attributeName="opacity" values="1;1;0;0" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>

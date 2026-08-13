@@ -48,6 +48,21 @@ you want to swap the photo.
    like any other image file.
 4. Commit `ascii.svg` alongside your other files and push.
 
+## Typing animation (`typing.svg`)
+
+Cycles through a list of lines with a real type/erase effect — pure SMIL
+animation baked into the SVG itself, so it plays the moment your profile
+loads, no JS and no third-party "typing-svg" service involved.
+
+1. Open `scripts/make_typing.py` and edit the `LINES` list at the top to
+   whatever you want it to say.
+2. Regenerate: `python3 scripts/make_typing.py`
+3. Commit `typing.svg` — it's already referenced in `README.md`.
+
+Tunables in the same file: `TYPE_SPEED` / `ERASE_SPEED` (seconds per
+character), `HOLD` (pause once a line is fully typed), `GAP` (pause once
+erased before the next line starts), and `FG` / `FONT_SIZE` for styling.
+
 Tunables at the top of `scripts/make_ascii.py`:
 - `COLS` — characters per row (higher = more detail, bigger/slower file)
 - `GAMMA` — >1 lifts shadow detail (raise this if your photo is dark/backlit)
