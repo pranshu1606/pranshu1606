@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="40" viewBox="0 0 200 40">
+  <rect width="200" height="40" fill="#0d1117"/>
+  <text x="0" y="26" font-family="'JetBrains Mono', 'Fira Code', Consolas, monospace"
+        font-size="20" font-weight="700" fill="#c9d1d9">
+    <tspan fill="#58a6ff">#</tspan> stack
+  </text>
+</svg>
