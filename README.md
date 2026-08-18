@@ -27,7 +27,7 @@ Docker, and the basics of Kubernetes**.
 ![projects](https://github.com/pranshu1606/pranshu1606/raw/main/hd-projects.svg)
 
 **[KINETICAI](https://github.com/pranshu1606/KINETICAI)** · `python, streamlit`
-Interactive data-exploration web app — architected backend workflows in
+Interactive data-exploration web app  architected backend workflows in
 Python for data processing and visualization behind an intuitive UI.
 
 **Recruitment Platform** · `next.js, fastapi, python` (mPHATEK Systems)
