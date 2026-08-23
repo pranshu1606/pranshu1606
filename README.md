@@ -29,20 +29,20 @@ Currently deepening my expertise in Java, Spring Boot, and RESTful API design, w
 # Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/pranshu-t-aba933325/" target="_blank" title="LinkedIn">
-    <img src="icons/linkedin.svg" width="37" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/pranshu-t-aba933325/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:pranshuthakkar.tech@gmail.com" target="_blank" title="Email">
-    <img src="icons/gmail.svg" width="37" alt="Email"/>
+  &nbsp;
+  <a href="mailto:pranshuthakkar.tech@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 ## Coding Profiles
 
 <p align="left">
-  <a href="https://leetcode.com/u/pranshu_thakkar/" target="_blank" title="LeetCode">
-    <img src="icons/leetcode.svg" width="30" alt="LeetCode"/>
+  <a href="https://leetcode.com/u/pranshu_thakkar/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
@@ -53,43 +53,34 @@ Currently deepening my expertise in Java, Spring Boot, and RESTful API design, w
 ## Core Stack
 
 <p align="left">
-  <img src="icons/java.svg" width="40" alt="Java" title="Java"/>
-  &nbsp;&nbsp;
-  <img src="icons/spring-boot.svg" width="40" alt="Spring Boot" title="Spring Boot"/>
-  &nbsp;&nbsp;
-  <img src="icons/python.svg" width="40" alt="Python" title="Python"/>
-  &nbsp;&nbsp;
-  <img src="icons/c.svg" width="40" alt="C" title="C"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
 </p>
 
 ## Frameworks
 
 <p align="left">
-  <img src="icons/fastapi.svg" width="40" alt="FastAPI" title="FastAPI"/>
-  &nbsp;&nbsp;
-  <img src="icons/nextjs.svg" width="40" alt="Next.js" title="Next.js"/>
-  &nbsp;&nbsp;
-  <img src="icons/streamlit.svg" width="40" alt="Streamlit" title="Streamlit"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
 </p>
 
 ## Databases
 
 <p align="left">
-  <img src="icons/mysql.svg" width="45" alt="SQL" title="SQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 ## DevOps & Cloud
 
 <p align="left">
-  <img src="icons/docker.svg" width="45" alt="Docker" title="Docker"/>
-  &nbsp;&nbsp;
-  <img src="icons/git.svg" width="40" alt="Git" title="Git"/>
-  &nbsp;&nbsp;
-  <img src="icons/github.svg" width="40" alt="GitHub" title="GitHub"/>
-  &nbsp;&nbsp;
-  <img src="icons/aws.svg" width="40" alt="AWS" title="AWS"/>
-  &nbsp;&nbsp;
-  <img src="icons/vercel.svg" width="40" alt="Vercel" title="Vercel"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
 </p>
 
 <br>
