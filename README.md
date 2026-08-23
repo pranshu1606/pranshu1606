@@ -96,9 +96,11 @@ Currently deepening my expertise in Java, Spring Boot, and RESTful API design, w
 # GitHub Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=pranshu1606&show_icons=true&locale=en&theme=algolia&hide_border=true&" width="350" height="180em" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pranshu1606&show_icons=true&locale=en&theme=algolia&hide_border=true" width="350" height="180em" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranshu1606&show_icons=true&locale=en&layout=compact&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&hide=html,css,scss" width="300" height="180em" alt="Top Languages" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranshu1606&theme=algolia&hide_border=true" width="350" height="180em" alt="GitHub Streak" />
+</p>
+<p align="center">
+    <img src="https://streak-stats.demolab.com?user=pranshu1606&theme=algolia&hide_border=true" width="350" height="180em" alt="GitHub Streak" />
 </p>
 
 <p align="center">
