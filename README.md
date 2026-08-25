@@ -20,9 +20,9 @@
 
 # About Me
 
-B.Tech CSE student at Manipal Institute of Technology, Bengaluru, with hands-on experience in backend systems, containerization, and AI-powered applications. I enjoy building and debugging real applications, working with Docker, Git, and CI/CD workflows, and collaborating with developers and stakeholders to deliver reliable software.
+B.Tech CSE student at Manipal Institute of Technology, Bengaluru, with hands-on experience in backend systems, containerization, and AI powered applications. I enjoy building and debugging real applications, working with Docker, Git, and CI/CD workflows, and collaborating with developers and stakeholders to deliver reliable software.
 
-Currently deepening my expertise in Java, Spring Boot, and RESTful API design, with a strong foundation in data structures, algorithms, databases, and object-oriented programming — and a growing focus on cloud technologies, DevOps, and scalable software systems.
+Currently deepening my expertise in Java, Spring Boot, and RESTful API design, with a strong foundation in data structures, algorithms, databases, and object oriented programming and a growing focus on cloud technologies, DevOps, and scalable software systems.
 
 <br>
 
