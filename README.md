@@ -38,8 +38,8 @@
 
 <table>
 <tr>
-<td width="30%"><b>KINETICAI</b></td>
-<td>Python-based data analysis application to process, validate, and query structured recruitment datasets, generating actionable insights and reports.<br/><sub>Python · SQL · Git</sub></td>
+<td width="30%"><b><a href="https://github.com/pranshu1606/distributed-order-processing-system">Distributed Order Processing System</b></td>
+<td>A scalable distributed e-commerce backend built with Spring Boot microservices, PostgreSQL, Redis, Docker, Kubernetes, and CI/CD.<br/><sub>Java · PostegereSQL · Git · SpringBoot </sub></td>
 </tr>
 <tr>
 <td width="30%"><b><a href="https://github.com/Opacity-HQ/Opacity">Opacity</a></b></td>
