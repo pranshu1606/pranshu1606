@@ -96,6 +96,7 @@
 <a href="https://www.linkedin.com/in/pranshu-t-aba933325/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pranshuthakkar.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://leetcode.com/u/pranshu_thakkar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://buymeacoffee.com/pranshu16"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-5F7FFF?style=for-the-badge&logo=buymeacoffee&logoColor=white" /></a>
 
 <sub>
 <a href="https://github.com/pranshu1606">@pranshu1606</a> &nbsp;•&nbsp;
